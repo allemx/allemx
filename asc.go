@@ -1,3 +1,6 @@
+//Mostra alguns caracteres e seus
+//codigos AscII
+
 package main
 
  import "fmt"
